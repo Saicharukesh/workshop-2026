@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int num = 30;
+    int num = 50;
     cout<<"Thevalueof a is "<<num<<endl;
     return 0;   
 }
